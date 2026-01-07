@@ -5,7 +5,27 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oSEu0VvTJdtecyIiC3q9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="UI" vertex="1">
-          <mxGeometry height="40" width="120" x="80" y="80" as="geometry" />
+          <mxGeometry height="40" width="160" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-2" edge="1" parent="1" source="CGQ2B0F_HumaBGxOrlFZ-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="oSEu0VvTJdtecyIiC3q9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-3" connectable="0" parent="CGQ2B0F_HumaBGxOrlFZ-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="添加Agent、Prompt及拓扑关系" vertex="1">
+          <mxGeometry relative="1" x="-0.0571" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="User" vertex="1">
+          <mxGeometry height="60" width="30" x="105" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Smart Server&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="280" width="290" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Chat Model模型维护" vertex="1">
+          <mxGeometry height="30" width="120" x="50" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Agent App关系维护" vertex="1">
+          <mxGeometry height="30" width="120" x="50" y="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
