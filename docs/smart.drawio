@@ -18,14 +18,23 @@
         <mxCell id="CGQ2B0F_HumaBGxOrlFZ-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="User" vertex="1">
           <mxGeometry height="60" width="30" x="105" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Smart Server&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="280" width="290" x="40" y="240" as="geometry" />
+        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Smart Server&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="280" x="40" y="240" as="geometry" />
         </mxCell>
         <mxCell id="CGQ2B0F_HumaBGxOrlFZ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Chat Model模型维护" vertex="1">
           <mxGeometry height="30" width="120" x="50" y="300" as="geometry" />
         </mxCell>
         <mxCell id="CGQ2B0F_HumaBGxOrlFZ-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Agent App关系维护" vertex="1">
           <mxGeometry height="30" width="120" x="50" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="运行Chat Prompt" vertex="1">
+          <mxGeometry height="30" width="120" x="180" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="知识库维护" vertex="1">
+          <mxGeometry height="30" width="120" x="180" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Remote接口维护" vertex="1">
+          <mxGeometry height="30" width="120" x="50" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
