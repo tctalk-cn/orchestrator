@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="第 1 页" id="-mHz5YEBKTKpe5qxxAYG">
-    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oSEu0VvTJdtecyIiC3q9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="UI" vertex="1">
-          <mxGeometry height="40" width="290" x="40" y="160" as="geometry" />
+          <mxGeometry height="40" width="410" x="-80" y="160" as="geometry" />
         </mxCell>
         <mxCell id="CGQ2B0F_HumaBGxOrlFZ-2" edge="1" parent="1" source="CGQ2B0F_HumaBGxOrlFZ-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="oSEu0VvTJdtecyIiC3q9-1">
           <mxGeometry relative="1" as="geometry" />
@@ -28,23 +28,20 @@
             <mxPoint x="9" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Smart Server&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="290" x="40" y="240" as="geometry" />
+        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Smart Server&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="220" width="510" x="-180" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Chat Model模型维护" vertex="1">
-          <mxGeometry height="30" width="120" x="50" y="300" as="geometry" />
+        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="基础管理&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="147" width="270" x="-170" y="273" as="geometry" />
         </mxCell>
         <mxCell id="CGQ2B0F_HumaBGxOrlFZ-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Agent App关系维护" vertex="1">
-          <mxGeometry height="30" width="120" x="50" y="340" as="geometry" />
+          <mxGeometry height="30" width="120" x="-30" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="运行Chat Prompt" vertex="1">
-          <mxGeometry height="30" width="120" x="180" y="300" as="geometry" />
-        </mxCell>
-        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="知识库维护" vertex="1">
-          <mxGeometry height="30" width="120" x="180" y="340" as="geometry" />
+        <mxCell id="CGQ2B0F_HumaBGxOrlFZ-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Token计算" vertex="1">
+          <mxGeometry height="30" width="120" x="180" y="360" as="geometry" />
         </mxCell>
         <mxCell id="CGQ2B0F_HumaBGxOrlFZ-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Remote接口维护" vertex="1">
-          <mxGeometry height="30" width="120" x="50" y="380" as="geometry" />
+          <mxGeometry height="30" width="120" x="-160" y="346" as="geometry" />
         </mxCell>
         <mxCell id="CGQ2B0F_HumaBGxOrlFZ-12" edge="1" parent="1" source="CGQ2B0F_HumaBGxOrlFZ-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="CGQ2B0F_HumaBGxOrlFZ-4">
           <mxGeometry relative="1" as="geometry" />
@@ -55,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CGQ2B0F_HumaBGxOrlFZ-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="APP&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="710" x="440" y="240" as="geometry" />
+          <mxGeometry height="220" width="710" x="440" y="240" as="geometry" />
         </mxCell>
         <mxCell id="jFwZmq3YJG0TwkftJ9re-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="实现节点逻辑&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="500" x="460" y="270" as="geometry" />
@@ -90,22 +87,22 @@
           <mxGeometry height="30" width="100" x="730" y="316" as="geometry" />
         </mxCell>
         <mxCell id="DZSlGIyAW4C5dk9G10A--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Chat Model 服务&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="290" x="40" y="480" as="geometry" />
+          <mxGeometry height="170" width="290" x="30" y="560" as="geometry" />
         </mxCell>
         <mxCell id="DZSlGIyAW4C5dk9G10A--6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="QWEN" vertex="1">
-          <mxGeometry height="30" width="120" x="50" y="520" as="geometry" />
+          <mxGeometry height="30" width="120" x="40" y="600" as="geometry" />
         </mxCell>
         <mxCell id="DZSlGIyAW4C5dk9G10A--7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GPT2" vertex="1">
-          <mxGeometry height="30" width="120" x="190" y="520" as="geometry" />
+          <mxGeometry height="30" width="120" x="180" y="600" as="geometry" />
         </mxCell>
         <mxCell id="DZSlGIyAW4C5dk9G10A--8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gemma" vertex="1">
-          <mxGeometry height="30" width="120" x="50" y="565" as="geometry" />
+          <mxGeometry height="30" width="120" x="40" y="645" as="geometry" />
         </mxCell>
         <mxCell id="DZSlGIyAW4C5dk9G10A--9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ChatGLM" vertex="1">
-          <mxGeometry height="30" width="120" x="190" y="565" as="geometry" />
+          <mxGeometry height="30" width="120" x="180" y="645" as="geometry" />
         </mxCell>
         <mxCell id="DZSlGIyAW4C5dk9G10A--10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="LLaMa" vertex="1">
-          <mxGeometry height="30" width="120" x="50" y="610" as="geometry" />
+          <mxGeometry height="30" width="120" x="40" y="690" as="geometry" />
         </mxCell>
         <mxCell id="0wcdTRCkFDShHqMm_dTa-3" edge="1" parent="1" source="0wcdTRCkFDShHqMm_dTa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DZSlGIyAW4C5dk9G10A--1">
           <mxGeometry relative="1" as="geometry" />
@@ -132,6 +129,18 @@
         </mxCell>
         <mxCell id="0wcdTRCkFDShHqMm_dTa-9" parent="1" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" value="大模型Restful" vertex="1">
           <mxGeometry height="50" width="510" x="460" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="0wcdTRCkFDShHqMm_dTa-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Chat Model模型维护" vertex="1">
+          <mxGeometry height="30" width="120" x="-160" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="0wcdTRCkFDShHqMm_dTa-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ChatPrompt维护" vertex="1">
+          <mxGeometry height="30" width="120" x="-30" y="346" as="geometry" />
+        </mxCell>
+        <mxCell id="0wcdTRCkFDShHqMm_dTa-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="知识库维护" vertex="1">
+          <mxGeometry height="30" width="120" x="-160" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="0wcdTRCkFDShHqMm_dTa-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Model调用" vertex="1">
+          <mxGeometry height="30" width="120" x="180" y="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
