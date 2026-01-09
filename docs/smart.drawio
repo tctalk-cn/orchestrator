@@ -151,15 +151,15 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hp7LfEaobHgJUtQ3aaPN-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="210" width="600" x="260" y="160" as="geometry" />
+          <mxGeometry height="170" width="600" x="305" y="200" as="geometry" />
         </mxCell>
         <mxCell id="hp7LfEaobHgJUtQ3aaPN-30" edge="1" parent="1" source="avuq1NYGbLqFlpAAD6aT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="avuq1NYGbLqFlpAAD6aT-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="300" />
-              <mxPoint x="150" y="260" />
-              <mxPoint x="250" y="260" />
-              <mxPoint x="250" y="300" />
+              <mxPoint x="195" y="300" />
+              <mxPoint x="195" y="260" />
+              <mxPoint x="295" y="260" />
+              <mxPoint x="295" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -168,8 +168,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hp7LfEaobHgJUtQ3aaPN-44" edge="1" parent="1" source="avuq1NYGbLqFlpAAD6aT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hp7LfEaobHgJUtQ3aaPN-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hp7LfEaobHgJUtQ3aaPN-48" connectable="0" parent="hp7LfEaobHgJUtQ3aaPN-44" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2.4 真实调用" vertex="1">
+          <mxGeometry relative="1" x="0.2" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="avuq1NYGbLqFlpAAD6aT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Smart Server" vertex="1">
-          <mxGeometry height="40" width="120" x="20" y="280" as="geometry" />
+          <mxGeometry height="40" width="120" x="65" y="280" as="geometry" />
         </mxCell>
         <mxCell id="avuq1NYGbLqFlpAAD6aT-3" edge="1" parent="1" source="avuq1NYGbLqFlpAAD6aT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="avuq1NYGbLqFlpAAD6aT-1">
           <mxGeometry relative="1" as="geometry" />
@@ -183,7 +191,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="avuq1NYGbLqFlpAAD6aT-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Dev" vertex="1">
-          <mxGeometry height="60" width="30" x="65" as="geometry" />
+          <mxGeometry height="60" width="30" x="110" as="geometry" />
         </mxCell>
         <mxCell id="avuq1NYGbLqFlpAAD6aT-7" edge="1" parent="1" source="avuq1NYGbLqFlpAAD6aT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="avuq1NYGbLqFlpAAD6aT-1">
           <mxGeometry relative="1" as="geometry" />
@@ -202,18 +210,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="avuq1NYGbLqFlpAAD6aT-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Smart SDK" vertex="1">
-          <mxGeometry height="40" width="120" x="270" y="280" as="geometry" />
+          <mxGeometry height="40" width="120" x="315" y="280" as="geometry" />
         </mxCell>
         <mxCell id="avuq1NYGbLqFlpAAD6aT-10" edge="1" parent="1" source="avuq1NYGbLqFlpAAD6aT-1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="avuq1NYGbLqFlpAAD6aT-6" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="300" />
-              <mxPoint x="160" y="350" />
-              <mxPoint x="260" y="350" />
-              <mxPoint x="260" y="300" />
+              <mxPoint x="205" y="300" />
+              <mxPoint x="205" y="350" />
+              <mxPoint x="305" y="350" />
+              <mxPoint x="305" y="300" />
             </Array>
-            <mxPoint x="330" y="430" as="sourcePoint" />
-            <mxPoint x="260" y="300" as="targetPoint" />
+            <mxPoint x="375" y="430" as="sourcePoint" />
+            <mxPoint x="305" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="avuq1NYGbLqFlpAAD6aT-11" connectable="0" parent="avuq1NYGbLqFlpAAD6aT-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.3 拉取Chat Chain相关Prompt/Model" vertex="1">
@@ -222,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hp7LfEaobHgJUtQ3aaPN-12" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="110" width="400" x="444" y="245" as="geometry" />
+          <mxGeometry height="110" width="400" x="489" y="245" as="geometry" />
         </mxCell>
         <mxCell id="hp7LfEaobHgJUtQ3aaPN-11" parent="hp7LfEaobHgJUtQ3aaPN-12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="" vertex="1">
           <mxGeometry height="110" width="400" as="geometry" />
@@ -269,26 +277,67 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hp7LfEaobHgJUtQ3aaPN-17" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="用户" vertex="1">
-          <mxGeometry height="60" width="30" x="545" as="geometry" />
+          <mxGeometry height="60" width="30" x="590" as="geometry" />
         </mxCell>
         <mxCell id="hp7LfEaobHgJUtQ3aaPN-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="智能客服" vertex="1">
-          <mxGeometry height="30" width="60" x="530" y="160" as="geometry" />
+          <mxGeometry height="30" width="60" x="575" y="201" as="geometry" />
         </mxCell>
         <mxCell id="hp7LfEaobHgJUtQ3aaPN-28" edge="1" parent="1" source="avuq1NYGbLqFlpAAD6aT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="80" />
-              <mxPoint x="190" y="80" />
-              <mxPoint x="190" y="250" />
-              <mxPoint x="80" y="250" />
+              <mxPoint x="125" y="80" />
+              <mxPoint x="235" y="80" />
+              <mxPoint x="235" y="250" />
+              <mxPoint x="125" y="250" />
             </Array>
-            <mxPoint x="80" y="280" as="targetPoint" />
+            <mxPoint x="125" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hp7LfEaobHgJUtQ3aaPN-29" connectable="0" parent="hp7LfEaobHgJUtQ3aaPN-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.4 Change&amp;nbsp;" vertex="1">
           <mxGeometry relative="1" x="-0.0909" as="geometry">
             <mxPoint y="10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hp7LfEaobHgJUtQ3aaPN-41" edge="1" parent="1" source="hp7LfEaobHgJUtQ3aaPN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" target="avuq1NYGbLqFlpAAD6aT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="125" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hp7LfEaobHgJUtQ3aaPN-45" connectable="0" parent="hp7LfEaobHgJUtQ3aaPN-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2.3 代理服务器" vertex="1">
+          <mxGeometry relative="1" x="-0.1394" y="-6" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hp7LfEaobHgJUtQ3aaPN-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Remote Prompt API" vertex="1">
+          <mxGeometry height="40" width="160" x="609" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hp7LfEaobHgJUtQ3aaPN-39" edge="1" parent="1" source="hp7LfEaobHgJUtQ3aaPN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hp7LfEaobHgJUtQ3aaPN-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hp7LfEaobHgJUtQ3aaPN-40" connectable="0" parent="hp7LfEaobHgJUtQ3aaPN-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2.2 根据生成的API进行调用" vertex="1">
+          <mxGeometry relative="1" x="-0.4222" y="2" as="geometry">
+            <mxPoint x="-2" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hp7LfEaobHgJUtQ3aaPN-47" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="110" width="260" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="hp7LfEaobHgJUtQ3aaPN-36" parent="hp7LfEaobHgJUtQ3aaPN-47" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="110" width="240" x="10" as="geometry" />
+        </mxCell>
+        <mxCell id="hp7LfEaobHgJUtQ3aaPN-33" parent="hp7LfEaobHgJUtQ3aaPN-47" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hp7LfEaobHgJUtQ3aaPN-34" parent="hp7LfEaobHgJUtQ3aaPN-47" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="80" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hp7LfEaobHgJUtQ3aaPN-35" parent="hp7LfEaobHgJUtQ3aaPN-47" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="180" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hp7LfEaobHgJUtQ3aaPN-37" parent="hp7LfEaobHgJUtQ3aaPN-47" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Chat Model Server" vertex="1">
+          <mxGeometry height="30" width="120" x="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
